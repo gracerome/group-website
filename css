@@ -1,7 +1,7 @@
 <style>
 		body {
-				background-color: #004c75;
-				color: #70cdff;
+				background-color: #ff997e;
+				color: #333396;
 				font-family: 'Georgia', serif;
 				line-height: 1.6;
 				max-width: 700px;
@@ -10,13 +10,13 @@
 				text-align: center;	
 
 		h1, h2 {
-			color: #70cdff;
+			color: #333396;
 			font-family: 'Georgia', serif;
 			text-align: center;
 		}
 
 		p {
-			color: #70cdff;
+			color: #333396;
 			font-family: 'Georgia', serif;
 			text-align: center;
 		}
