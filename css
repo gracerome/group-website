@@ -8,7 +8,7 @@
 				margin: 0 auto;
 				padding: 20px;
 				text-align: center;	
-
+		}
 		h1, h2 {
 			color: #333396;
 			font-family: 'Georgia', serif;
@@ -36,7 +36,7 @@
 				max-height: 450px;
 				object-fit: cover;
 				border-radius: 8px;
-
+		}
 .top-image {
 			display: block;
 			margin: 20px auto;
